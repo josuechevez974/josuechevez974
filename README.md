@@ -26,8 +26,18 @@ Soy Josue Chevez, un apasionado por la tecnología y la programación. Con exper
 
 ## 🌟 Proyectos Destacados
 
+### ChatBot
+- **Descripción**: Chat con OpenAI para asistencia virtual, se incrusto reactJs en un proyecto C# webform para poder mejorar la integracion de nuevas tecnologias.
+- **Tecnologías Utilizadas**: Laravel, Tailwind CSS, MySQL, Docker, OpenAI, ReactJS(React DOM)
+- **Enlace**: <a href="https://www.uees.edu.sv/">UEES</a>
+
 ### Evaluacion satisfaccion
-- **Descripción**: Desarrollado por mi persona para la Universidad Evangelica de El Salvador. Permitio la institucion evaluar a los servicios educativos y administrativos
+- **Descripción**: El sistema se integra con un sistema en C# web form para que los estudiante evaluen, los administradores pueden crear cuestionario 100% personalizables.
+- **Tecnologías Utilizadas**: Laravel, Tailwind CSS, MySQL, Docker.
+- **Enlace**: <a href="https://www.uees.edu.sv/">UEES</a>
+
+### Solicitudes UEES
+- **Descripción**: Sistema adminsitrativo para gestionar solicitudes de recursos institucionales como espacios deportivos, aulas, transporte, activos.
 - **Tecnologías Utilizadas**: Laravel, Tailwind CSS, MySQL, Docker.
 - **Enlace**: <a href="https://www.uees.edu.sv/">UEES</a>
 
