@@ -33,7 +33,7 @@ Soy Josue Chevez, un apasionado por la tecnología y la programación. Con exper
 
 ### ConsuleManager
 - **Descripción**: Sistema para administracion de expedientes y citas, desarrollado para MiraLaw Group.
-- **Tecnologías Utilizadas**: Angular, MongoDB, Docker.
+- **Tecnologías Utilizadas**: Codeigniter, MySql, Docker.
 - **Enlace**: <a href="https://www.miralawgroup.com/es/home-es/">Mira Law Group</a>
 
 ## 📫 Contacto
