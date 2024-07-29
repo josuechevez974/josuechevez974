@@ -1,8 +1,6 @@
 # ¡Hola! 👋 Soy Josue Chevez
+<code>{!! __('Development') !!} {{ __('Full Stack') }}</code>
 
-<div style="text-align: center; margin-bottom: 20px;">
-    <img src="https://avatars.githubusercontent.com/u/159230670?v=4" alt="Josue Chevez" style="border-radius: 50%; width: 150px; height: 150px;">
-</div>
 
 ## 🚀 Introducción
 
