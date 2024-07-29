@@ -26,7 +26,7 @@ Soy Josue Chevez, un apasionado por la tecnología y la programación. Con exper
 
 ## 🌟 Proyectos Destacados
 
-### ChatBot
+### ChatBot Open AI
 - **Descripción**: Chat con OpenAI para asistencia virtual, se incrusto reactJs en un proyecto C# webform para poder mejorar la integracion de nuevas tecnologias.
 - **Tecnologías Utilizadas**: Laravel, Tailwind CSS, MySQL, Docker, OpenAI, ReactJS(React DOM)
 - **Enlace**: <a href="https://www.uees.edu.sv/">UEES</a>
